@@ -12,3 +12,5 @@ As contas analizadas foram das seguintes empresas:
  - Netflix e Netflix Brasil
  - Magazine Luiza
  - Ponto Frio
+
+ - LINK: https://drive.google.com/file/d/1xR4JJ7BQjJpqtvF0jUtitYOS1mw1VBpR/view?usp=sharing
